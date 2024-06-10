@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divyansh Oze</h1>
-<h3 align="center">A young ML and AI Intern at Automobili Pininfarina i.e. Munich. Passionate about the AI world. I have a soft spot for anything with the base of therapy in it :D</h3>
+<h3 align="center">A young ML and AI postgraduate, currently a software engineering intern at BSA Company LTD, i.e. UK. Passionate about the AI world. I have a soft spot for anything with the base of therapy in it :D</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshoze&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshoze" /> </p>
 
